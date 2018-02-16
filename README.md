@@ -15,7 +15,8 @@ Key Features
 - Managing scene files in Unity using an Animator-driven Controlled State Manager and Configurator objects
 - Usage of physics collider and rigidbody components, physics materials, etc.
 - 2.5D platformer character motion controller, prefab structure, component usage and configuration
-- Shaders and custom rendering techniques used to leverage retro sprite game style while allowing mixing with 3D content.
+- Shaders and custom rendering techniques used to leverage retro sprite game style while allowing mixing with 3D content
+- Build configuration management using build manager and scripts
 
 Remarks
 -----
