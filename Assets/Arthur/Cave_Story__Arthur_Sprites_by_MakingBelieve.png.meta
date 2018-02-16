@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 30d31764c19b5f5468d300930179f9a5
+timeCreated: 1518154070
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk01
+    21300002: Walk02
+    21300004: Walk03
+    21300006: Cave_Story__Arthur_Sprites_by_MakingBelieve_3
+    21300008: Cave_Story__Arthur_Sprites_by_MakingBelieve_4
+    21300010: Cave_Story__Arthur_Sprites_by_MakingBelieve_5
+    21300012: Cave_Story__Arthur_Sprites_by_MakingBelieve_6
+    21300014: Cave_Story__Arthur_Sprites_by_MakingBelieve_7
+    21300016: Cave_Story__Arthur_Sprites_by_MakingBelieve_8
+    21300018: Cave_Story__Arthur_Sprites_by_MakingBelieve_9
+    21300020: Cave_Story__Arthur_Sprites_by_MakingBelieve_10
+    21300022: Cave_Story__Arthur_Sprites_by_MakingBelieve_11
+    21300024: Cave_Story__Arthur_Sprites_by_MakingBelieve_12
+    21300026: Cave_Story__Arthur_Sprites_by_MakingBelieve_13
+    21300028: Sword Walk 01
+    21300030: Sword Walk 02
+    21300032: Sword Walk 03
+    21300034: Cave_Story__Arthur_Sprites_by_MakingBelieve_17
+    21300036: Cave_Story__Arthur_Sprites_by_MakingBelieve_18
+    21300038: Cave_Story__Arthur_Sprites_by_MakingBelieve_19
+    21300040: Sword Attack 01
+    21300042: Sword Attack 02
+    21300044: Cave_Story__Arthur_Sprites_by_MakingBelieve_22
+    21300046: Sword Attack 03
+    21300048: Cave_Story__Arthur_Sprites_by_MakingBelieve_24
+    21300050: Cave_Story__Arthur_Sprites_by_MakingBelieve_25
+    21300052: Cave_Story__Arthur_Sprites_by_MakingBelieve_26
+    21300054: Cave_Story__Arthur_Sprites_by_MakingBelieve_27
+    21300056: Cave_Story__Arthur_Sprites_by_MakingBelieve_28
+    21300058: Cave_Story__Arthur_Sprites_by_MakingBelieve_29
+    21300060: Cave_Story__Arthur_Sprites_by_MakingBelieve_30
+    21300062: Cave_Story__Arthur_Sprites_by_MakingBelieve_31
+    21300064: Cave_Story__Arthur_Sprites_by_MakingBelieve_32
+    21300066: Cave_Story__Arthur_Sprites_by_MakingBelieve_33
+    21300068: Cave_Story__Arthur_Sprites_by_MakingBelieve_34
+    21300070: Cave_Story__Arthur_Sprites_by_MakingBelieve_35
+    21300072: Cave_Story__Arthur_Sprites_by_MakingBelieve_36
+    21300074: Cave_Story__Arthur_Sprites_by_MakingBelieve_37
+    21300076: Cave_Story__Arthur_Sprites_by_MakingBelieve_38
+    21300078: Cave_Story__Arthur_Sprites_by_MakingBelieve_39
+    21300080: Cave_Story__Arthur_Sprites_by_MakingBelieve_40
+    21300082: Cave_Story__Arthur_Sprites_by_MakingBelieve_41
+    21300084: Cave_Story__Arthur_Sprites_by_MakingBelieve_42
+    21300086: Cave_Story__Arthur_Sprites_by_MakingBelieve_43
+    21300088: Cave_Story__Arthur_Sprites_by_MakingBelieve_44
+    21300090: Cave_Story__Arthur_Sprites_by_MakingBelieve_45
+    21300092: SwordWalk01
+    21300094: SwordWalk02
+    21300096: SwordWalk03
+    21300098: Cave_Story__Arthur_Sprites_by_MakingBelieve_49
+    21300100: Cave_Story__Arthur_Sprites_by_MakingBelieve_50
+    21300102: Cave_Story__Arthur_Sprites_by_MakingBelieve_51
+    21300104: Cave_Story__Arthur_Sprites_by_MakingBelieve_52
+    21300106: Cave_Story__Arthur_Sprites_by_MakingBelieve_53
+    21300108: Cave_Story__Arthur_Sprites_by_MakingBelieve_54
+    21300110: SwordAttack01
+    21300112: SwordAttack02
+    21300114: Cave_Story__Arthur_Sprites_by_MakingBelieve_57
+    21300116: SwordAttack03
+    21300118: Cave_Story__Arthur_Sprites_by_MakingBelieve_59
+    21300120: Cave_Story__Arthur_Sprites_by_MakingBelieve_60
+    21300122: Cave_Story__Arthur_Sprites_by_MakingBelieve_61
+    21300124: Cave_Story__Arthur_Sprites_by_MakingBelieve_62
+    21300126: Cave_Story__Arthur_Sprites_by_MakingBelieve_63
+    21300128: Cave_Story__Arthur_Sprites_by_MakingBelieve_64
+    21300130: Cave_Story__Arthur_Sprites_by_MakingBelieve_65
+    21300132: Cave_Story__Arthur_Sprites_by_MakingBelieve_66
+    21300134: Cave_Story__Arthur_Sprites_by_MakingBelieve_67
+    21300136: Cave_Story__Arthur_Sprites_by_MakingBelieve_68
+    21300138: Cave_Story__Arthur_Sprites_by_MakingBelieve_69
+    21300140: Cave_Story__Arthur_Sprites_by_MakingBelieve_70
+    21300142: Cave_Story__Arthur_Sprites_by_MakingBelieve_71
+    21300144: Cave_Story__Arthur_Sprites_by_MakingBelieve_72
+    21300146: Cave_Story__Arthur_Sprites_by_MakingBelieve_73
+    21300148: Cave_Story__Arthur_Sprites_by_MakingBelieve_74
+    21300150: Jump 01
+    21300152: Jump 02
+    21300154: Jump 03
+    21300156: Cave_Story__Arthur_Sprites_by_MakingBelieve_78
+    21300158: Cave_Story__Arthur_Sprites_by_MakingBelieve_79
+    21300160: Dash01
+    21300162: Dash02
+    21300164: Dash03
+    21300166: Cave_Story__Arthur_Sprites_by_MakingBelieve_83
+    21300168: Cave_Story__Arthur_Sprites_by_MakingBelieve_84
+    21300170: Cave_Story__Arthur_Sprites_by_MakingBelieve_85
+    21300172: Cave_Story__Arthur_Sprites_by_MakingBelieve_86
+    21300174: Cave_Story__Arthur_Sprites_by_MakingBelieve_87
+    21300176: Cave_Story__Arthur_Sprites_by_MakingBelieve_88
+    21300178: Cave_Story__Arthur_Sprites_by_MakingBelieve_89
+    21300180: Cave_Story__Arthur_Sprites_by_MakingBelieve_90
+    21300182: Cave_Story__Arthur_Sprites_by_MakingBelieve_91
+    21300184: Cave_Story__Arthur_Sprites_by_MakingBelieve_92
+    21300186: Cave_Story__Arthur_Sprites_by_MakingBelieve_93
+    21300188: Cave_Story__Arthur_Sprites_by_MakingBelieve_94
+    21300190: Cave_Story__Arthur_Sprites_by_MakingBelieve_95
+    21300192: Cave_Story__Arthur_Sprites_by_MakingBelieve_96
+    21300194: Cave_Story__Arthur_Sprites_by_MakingBelieve_97
+    21300196: Cave_Story__Arthur_Sprites_by_MakingBelieve_98
+    21300198: Cave_Story__Arthur_Sprites_by_MakingBelieve_99
+    21300200: Cave_Story__Arthur_Sprites_by_MakingBelieve_100
+    21300202: Cave_Story__Arthur_Sprites_by_MakingBelieve_101
+    21300204: Cave_Story__Arthur_Sprites_by_MakingBelieve_102
+    21300206: Cave_Story__Arthur_Sprites_by_MakingBelieve_103
+    21300208: Cave_Story__Arthur_Sprites_by_MakingBelieve_104
+    21300210: Cave_Story__Arthur_Sprites_by_MakingBelieve_105
+    21300212: Cave_Story__Arthur_Sprites_by_MakingBelieve_106
+    21300214: Cave_Story__Arthur_Sprites_by_MakingBelieve_107
+    21300216: Cave_Story__Arthur_Sprites_by_MakingBelieve_108
+    21300218: Cave_Story__Arthur_Sprites_by_MakingBelieve_109
+    21300220: Cave_Story__Arthur_Sprites_by_MakingBelieve_110
+    21300222: Cave_Story__Arthur_Sprites_by_MakingBelieve_111
+    21300224: Cave_Story__Arthur_Sprites_by_MakingBelieve_112
+    21300226: Cave_Story__Arthur_Sprites_by_MakingBelieve_113
+    21300228: Cave_Story__Arthur_Sprites_by_MakingBelieve_114
+    21300230: Cave_Story__Arthur_Sprites_by_MakingBelieve_115
+    21300232: Cave_Story__Arthur_Sprites_by_MakingBelieve_116
+    21300234: Cave_Story__Arthur_Sprites_by_MakingBelieve_117
+    21300236: Cave_Story__Arthur_Sprites_by_MakingBelieve_118
+    21300238: Cave_Story__Arthur_Sprites_by_MakingBelieve_119
+    21300240: Cave_Story__Arthur_Sprites_by_MakingBelieve_120
+    21300242: Cave_Story__Arthur_Sprites_by_MakingBelieve_121
+    21300244: Cave_Story__Arthur_Sprites_by_MakingBelieve_122
+    21300246: Cave_Story__Arthur_Sprites_by_MakingBelieve_123
+    21300248: Cave_Story__Arthur_Sprites_by_MakingBelieve_124
+    21300250: Cave_Story__Arthur_Sprites_by_MakingBelieve_125
+    21300252: Cave_Story__Arthur_Sprites_by_MakingBelieve_126
+    21300254: Cave_Story__Arthur_Sprites_by_MakingBelieve_127
+    21300256: Cave_Story__Arthur_Sprites_by_MakingBelieve_128
+    21300258: Cave_Story__Arthur_Sprites_by_MakingBelieve_129
+    21300260: Cave_Story__Arthur_Sprites_by_MakingBelieve_130
+    21300262: Cave_Story__Arthur_Sprites_by_MakingBelieve_131
+    21300264: Cave_Story__Arthur_Sprites_by_MakingBelieve_132
+    21300266: Cave_Story__Arthur_Sprites_by_MakingBelieve_133
+    21300268: Cave_Story__Arthur_Sprites_by_MakingBelieve_134
+    21300270: Cave_Story__Arthur_Sprites_by_MakingBelieve_135
+    21300272: Cave_Story__Arthur_Sprites_by_MakingBelieve_136
+    21300274: Jump01
+    21300276: Jump02
+    21300278: Jump03
+    21300280: Cave_Story__Arthur_Sprites_by_MakingBelieve_140
+    21300282: Cave_Story__Arthur_Sprites_by_MakingBelieve_141
+    21300284: Cave_Story__Arthur_Sprites_by_MakingBelieve_142
+    21300286: Walk 01
+    21300288: Walk 02
+    21300290: Walk 03
+    21300292: Cave_Story__Arthur_Sprites_by_MakingBelieve_46
+    21300294: Cave_Story__Arthur_Sprites_by_MakingBelieve_47
+    21300296: Cave_Story__Arthur_Sprites_by_MakingBelieve_48
+    21300298: Cave_Story__Arthur_Sprites_by_MakingBelieve_55
+    21300300: Cave_Story__Arthur_Sprites_by_MakingBelieve_56
+    21300302: Cave_Story__Arthur_Sprites_by_MakingBelieve_58
+    21300304: Cave_Story__Arthur_Sprites_by_MakingBelieve_80
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk 01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 228
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk 02
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 228
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.57, y: 0.007211685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Walk 03
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 228
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 241
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 229
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 229
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 229
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 242
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 207
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword Walk 01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7032854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword Walk 02
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 24
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6863449, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword Walk 03
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.75189704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 207
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 207
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 207
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword Attack 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 21
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6686675, y: 0.006559245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword Attack 02
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 183
+        width: 25
+        height: 16
+      alignment: 9
+      pivot: {x: 0.24418777, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword Attack 03
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 183
+        width: 33
+        height: 15
+      alignment: 9
+      pivot: {x: 0.42248142, y: 0.006559245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 188
+        width: 34
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 167
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 168
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 168
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 170
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 170
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 170
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 170
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 167
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 167
+        width: 36
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 151
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 151
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 146
+        width: 34
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 127
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 126
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 126
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 125
+        width: 37
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 125
+        width: 33
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 53
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 99
+        width: 53
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_53
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 85
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 68
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 77
+        width: 44
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 51
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 51
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 52
+        width: 37
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 54
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 41
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 26
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 29
+        width: 20
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_70
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 31
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_71
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 36
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_74
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 31
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump 01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump 02
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump 03
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.57, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_78
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 15
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 16
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cave_Story__Arthur_Sprites_by_MakingBelieve_80
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 15
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

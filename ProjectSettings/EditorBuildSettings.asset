@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Release Main 01.unity
+    guid: 5cd4aa22a285f5d468888ab10b6dc6b2
+  - enabled: 1
+    path: Assets/Scenes/NotCaveStory.unity
+    guid: 7ae7e6b7abea06344b6666093b68b5cf
+  - enabled: 1
+    path: Assets/Scenes/The Camera.unity
+    guid: 9cd48ed31e747e84990d334749bd5334
