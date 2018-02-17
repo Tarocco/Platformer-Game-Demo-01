@@ -73,7 +73,7 @@ namespace RoaringFangs.Editor
                     return BuildTarget.StandaloneLinux64;
 
                 case "mac":
-                    return BuildTarget.StandaloneOSXIntel64;
+                    return BuildTarget.StandaloneOSX;
 
                 case "webgl":
                     return BuildTarget.WebGL;
@@ -243,8 +243,10 @@ namespace RoaringFangs.Editor
                 case BuildTarget.StandaloneWindows64:
                     return PlayerSettings.productName + ".exe";
 
+#pragma warning disable CS0618 // Type or member is obsolete
                 case BuildTarget.StandaloneOSXIntel:
                 case BuildTarget.StandaloneOSXIntel64:
+#pragma warning restore CS0618 // Type or member is obsolete
                 case BuildTarget.StandaloneOSX:
                     return PlayerSettings.productName + ".app";
 
