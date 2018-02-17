@@ -57,3 +57,7 @@ Assets/Plugins/Sirenix.meta
 # Unity scripting define symbols will be user-dependent
 Assets/mcs.rsp
 Assets/mcs.rsp.meta
+
+# Incluide the assembly patcher DLL
+!Assets/Editor/AssemblyPatcher.dll
+!Assets/Editor/AssemblyPatcher.dll.meta
