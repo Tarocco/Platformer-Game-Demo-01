@@ -53,3 +53,7 @@ Assets/Plugins/Sirenix.meta
 
 # Unity is putting some DLLs in the base directory for some odd reason...
 /*.dll
+
+# Unity scripting define symbols will be user-dependent
+Assets/mcs.rsp
+Assets/mcs.rsp.meta

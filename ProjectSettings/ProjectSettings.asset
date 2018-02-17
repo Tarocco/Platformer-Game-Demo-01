@@ -549,8 +549,7 @@ PlayerSettings:
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
-    1: ODIN_INSPECTOR
-    13: ODIN_INSPECTOR
+    1: ODIN_MANUALCTL
   platformArchitecture: {}
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
