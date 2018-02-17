@@ -79,8 +79,6 @@ public class ArthurController : MonoBehaviour, ISerializationCallbackReceiver
 
     private float MoveY;
 
-    private bool? WasPhysicallySupported;
-
     void Start()
     {
 
@@ -131,7 +129,7 @@ public class ArthurController : MonoBehaviour, ISerializationCallbackReceiver
             move_y = 0;
         }
 
-        var move_dy = move_y - MoveY;
+        //var move_dy = move_y - MoveY;
         var move_abs_dy = move_y - Mathf.Abs(MoveY);
 
         MoveY = move_y;
@@ -162,8 +160,6 @@ public class ArthurController : MonoBehaviour, ISerializationCallbackReceiver
         PlayerMotion.Movement = movement;
 
         Animator.SetBool("Physically Supported", physically_supported);
-
-        WasPhysicallySupported = physically_supported;
     }
 
     public void OnAfterDeserialize()
