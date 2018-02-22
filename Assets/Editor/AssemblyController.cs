@@ -31,7 +31,11 @@ static class AssemblyController
         //Debug.Log("Patching complete.");
 
         var mcs_path = Path.Combine(Application.dataPath, "mcs.rsp");
-        var mcs = File.ReadAllLines(mcs_path).ToList();
+        List<string> mcs;
+        if (File.Exists(mcs_path))
+            mcs = File.ReadAllLines(mcs_path).ToList();
+        else
+            mcs = new List<string>();
 
         if (HasOdinInspector())
             AddDefineToMCS(ref mcs, OdinMCSDefine);
