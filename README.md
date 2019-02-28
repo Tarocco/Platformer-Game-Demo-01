@@ -27,7 +27,7 @@ This is a work in progress. Please expect improvements to happen over time. Righ
 Credits
 -----
 
-Roaring Fangs libraries belong to Roaring Fangs LLC
+Roaring Fangs libraries belong to Roaring Fangs Entertainment
 
 Arthur sprites belong to MakingBelieve, Cave Story developed by and property of Pixel
 
